@@ -10,4 +10,6 @@ is a high level view for SimpleExoPlayer media playbacks. It displays video, sub
     
     #Here is the dummy application and below are the Screenchots\
     
-    https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg
+    
+    
+    ![alt tag](https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg "Description goes here")
