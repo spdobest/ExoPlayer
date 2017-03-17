@@ -10,3 +10,6 @@ is a high level view for SimpleExoPlayer media playbacks. It displays video, sub
     
     
 ![alt tag](https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg "Description goes here")    
+![alt tag](https://github.com/spdobest/ExoPlayer/blob/master/screen2.jpg "")
+
+# ANother Screenshots , you can change the quality of the video using ExoPlayer 
