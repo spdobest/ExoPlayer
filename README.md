@@ -8,8 +8,6 @@ is a view for controlling ExoPlayer instances. It displays standard playback con
 is a high level view for SimpleExoPlayer media playbacks. It displays video, subtitles and album art during playback, and displays playback controls using a PlaybackControlView.
     
     
-    #Here is the dummy application and below are the Screenchots
+    #Here is the dummy application and below are the Screenchots\
     
-    ![alt tag](https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg)
-    
-    ![solarized selective contrast](https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg)
+    https://github.com/spdobest/ExoPlayer/blob/master/screen1.jpg
